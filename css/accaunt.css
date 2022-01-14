@@ -1,0 +1,56 @@
+#ava{
+	margin-top:10px;
+}
+#sPhoto{
+	max-width:100%;
+	display:block;
+  	margin:auto;
+}
+.sbody button{
+	height:100%;
+}
+#ophoto{
+	width:calc(100% - 75px);
+}
+#photos{
+	display: flex;
+}
+.imghide{
+	display:none;
+}
+.postAva{
+	border-radius:50%;
+}
+.post{
+	background-color:white;
+	margin-top:10px;
+	border: 1px solid #ced4da;
+	border-radius:20px;
+	padding:20px;
+}
+.namePost{
+	font-size:30px;
+}
+.dataPost{
+
+}
+.textPost{
+	font-size:25px;
+}
+.wrap{
+	background-color:white;
+	margin-top:10px;
+	border: 1px solid #ced4da;
+	border-radius:20px;
+	padding:20px;
+}
+.loadnext{
+	margin-top:10px;
+	width:100%;
+	text-align:center;
+	font-size:30px;
+}
+.postLine{
+	justify-content:space-between;
+	margin:4px;
+}
